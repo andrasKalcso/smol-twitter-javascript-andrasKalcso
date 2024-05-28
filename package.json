@@ -1,0 +1,9 @@
+{
+  "name": "smol-twitter",
+  "version": "1.0.0",
+  "main": "index.js",
+  "type": "module",
+  "devDependencies": {
+    "eslint": "^8.39.0"
+  }
+}
